@@ -1,2 +1,2 @@
 # philosophy
-philosophy
+philosophy WordPress Theme
